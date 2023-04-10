@@ -25,5 +25,5 @@
   
   This command will compile the smart contract and generate the metadata for our file. <br>
   
-  <em>Congratulations, you have just created your first smart contract using Ink!</em>
+  🎉<em>Congratulations, you have just created your first smart contract using Ink!</em>🎉
 </p>
