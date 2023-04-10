@@ -4,14 +4,12 @@
   To use this code, you must enter these commands in your terminal:
 </p>
 <p>
-  <strong>First:</strong> Install <em>Rust</em> in your machine with this command: <code>curl https://sh.rustup.rs -sSf | sh </code>.
+  <strong>First:</strong> Install <em>Rust</em> in your machine with this command: <code>curl https://sh.rustup.rs -sSf | sh </code>. <br>
   <strong>Second:</strong> Install the toolchain nightly: 
-  <code>
-    rustup default stable <br>
-    rustup update <br>
-    rustup update nightly <br>
-    rustup component add rust-src <br>
-    rustup component add rust-src --toolchain nightly <br>
-    rustup target add wasm32-unknown-unknown --toolchain nightly <br>
-  </code>.
+  <code>rustup default stable</code> <br>
+  <code>rustup update</code> <br>
+  <code>rustup update nightly</code> <br>
+  <code>rustup component add rust-src</code> <br>
+  <code>rustup component add rust-src --toolchain nightly</code> <br>
+  <code>rustup target add wasm32-unknown-unknown --toolchain nightly</code>.
 </p>
