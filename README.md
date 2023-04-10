@@ -1,6 +1,7 @@
 <h1 align="center">Bank smart contract</h1>
 <img src="https://media3.giphy.com/media/iG4zIb2xaxCBbZ3uei/giphy.gif?cid=ecf05e47jepsoc6iqg175d7y1caf5m3ernz0c6p3kox8oby4&rid=giphy.gif&ct=g" align="right" width="400"> <br>
-<img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/200w.webp?cid=ecf05e47pxybd3f7elyx9c45xr7rgiyiwxd0ym21dhe9mq6c&rid=200w.webp&ct=g" width="400">
+
+<img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/200w.webp?cid=ecf05e47pxybd3f7elyx9c45xr7rgiyiwxd0ym21dhe9mq6c&rid=200w.webp&ct=g" align="right" width="400">
 <p>
   To use this code, you must enter these commands in your terminal:
 </p>
