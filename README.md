@@ -5,7 +5,7 @@
 </p>
 <p>
   <strong>First:</strong> Install <em>Rust</em> in your machine with this command: <code>curl https://sh.rustup.rs -sSf | sh </code>. <br>
-  <strong>Second:</strong> Install the toolchain nightly: 
+  <strong>Second:</strong> Install the toolchain nightly: <br>
   <code>rustup default stable</code> <br>
   <code>rustup update</code> <br>
   <code>rustup update nightly</code> <br>
