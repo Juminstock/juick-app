@@ -12,7 +12,7 @@
   <code>rustup update nightly</code> <br>
   <code>rustup component add rust-src</code> <br>
   <code>rustup component add rust-src --toolchain nightly</code> <br>
-  <code>rustup target add wasm32-unknown-unknown --toolchain nightly</code>. <br>
+  <code>rustup target add wasm32-unknown-unknown  nightly</code>. <br>
   
   <strong>Third:</strong> Install other necessary dependencies: <br>
   <code>cargo install cargo-dylint dylint-link</code>. <br>
