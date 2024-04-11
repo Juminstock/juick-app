@@ -1,10 +1,10 @@
-import styles from './Hero.module.css';
+import styles from './Hero.module.sass';
 
 export const Hero = () => {
     return(
         <section className={styles.Hero}>
             <h1>
-                Im the hero!
+                Im the hero uwu!
             </h1>
             <h2>
                 Empowering your tomorrow, today!
