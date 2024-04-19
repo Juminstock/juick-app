@@ -22,12 +22,12 @@ However, Juick app can also be used and integrated by:
 <p>
 The application itself has many benefits that can be extended depending on the use case. However, regardless of the use case, we have found these standout points in common:
 
-- Execution of multiple payments in a single transaction
-- Reduced transaction costs for each operation
-- Definite time savings
-- Ease of use
-- Can be integrated as a tool
-- Easy access to DeFi services
+- Execution of multiple payments in a single transaction 💸
+- Reduced transaction costs for each operation 🫰🏼
+- Definite time savings ⏳
+- Ease of use 😌
+- Can be integrated as a tool ⚙️
+- Easy access to DeFi services 💰
 </p>
 <h2>Juick app flow</h2>
 <p>
