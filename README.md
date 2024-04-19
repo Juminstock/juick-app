@@ -13,10 +13,10 @@ Juick app primarily focuses on providing an easy-to-use platform for DAOs that d
 However, Juick app can also be used and integrated by:
 
 - DApps 📲
-- Communities 🙎🏻‍♀️
 - Projects 🧑🏻‍💻
 - Companies 🏢
 - Web2 apps 💻
+- Communities 🙎🏻‍♀️
 </p>
 <h2>Benefits</h2>
 <p>
@@ -24,10 +24,10 @@ The application itself has many benefits that can be extended depending on the u
 
 - Execution of multiple payments in a single transaction 💸
 - Reduced transaction costs for each operation 🫰🏼
+- Easy access to DeFi services 💰
+- Can be integrated as a tool ⚙️
 - Definite time savings ⏳
 - Ease of use 😌
-- Can be integrated as a tool ⚙️
-- Easy access to DeFi services 💰
 </p>
 <h2>Juick app flow</h2>
 <p>
