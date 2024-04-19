@@ -29,7 +29,15 @@ The application itself has many benefits that can be extended depending on the u
 - Definite time savings ⏳
 - Ease of use 😌
 </p>
+<h2>User target - buyer persona</h2>
+<p>
+We have conducted a prospect of our potential users, which has allowed us to have a broader vision of the functions that our application should incorporate, its characteristics, and its benefits for potential users. Based on this, we have developed a user target, which is described in the following image:
+</p>
+
+![BuyerPersona](/public/buyer-persona.png)
 <h2>Juick app flow</h2>
+<p>Write here...</p>
+<h2>Bussiness model</h2>
 <p>
 
 </p>
