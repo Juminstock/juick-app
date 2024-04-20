@@ -36,10 +36,18 @@ We have conducted a prospect of our potential users, which has allowed us to hav
 
 ![BuyerPersona](/public/buyer-persona.png)
 <h2>Juick app flow</h2>
-<p>Write here...</p>
+<p>
+In resume, we will build the app using a simple workflow. In this image you can see our flow on the app:
+
+![Juick workflow](/public/juick-workflow.jpeg)
+</p>
 <h2>Business model</h2>
 <p>
 We know how important it is to keep in mind the economic issue in the development of a project, that is why we have invested time establishing an appropriate business model for our project and creating a structure that can be sustainable. We present here, the business model canvas of Juick app:
 
 ![BusinessModelCanvas](/public/juick-app-business-model-canvas.png)
+</p>
+<h2>Roadmap</h2>
+<p>
+
 </p>
